@@ -1,0 +1,255 @@
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/Interactibles/VRMountComponent.cpp
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles/VRMountComponent.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripMotionControllerComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRBPDatatypes.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRBPDatatypes.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\MotionControllerComponent.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\IIdentifiableXRDevice.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\HeadMountedDisplay\MotionControllerComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\HeadMountedDisplayTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\IXRInput.h
+c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRGripInterface.h
+c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripScripts/VRGripScriptBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRGripScriptBase.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRGripInterface.generated.h
+c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRGlobalSettings.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\KeyState.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\PlayerInput.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\InputSettings.generated.h
+c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripScripts/GS_GunTools.h
+c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripScripts/GS_Default.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\GS_Default.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\GS_GunTools.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRGlobalSettings.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\XRMotionControllerBase.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\GripMotionControllerComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagAssetInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\GameplayTags\GameplayTagAssetInterface.generated.h
+c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\interactibles\VRInteractibleFunctionLibrary.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRInteractibleFunctionLibrary.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRMountComponent.generated.h
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/Interactibles/VRSliderComponent.cpp
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles/VRSliderComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SplineComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\SplineComponent.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRSliderComponent.generated.h
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/Misc/BucketUpdateSubsystem.cpp
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc/BucketUpdateSubsystem.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\BucketUpdateSubsystem.generated.h
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/Misc/VRAIPerceptionOverrides.cpp
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc/VRAIPerceptionOverrides.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBaseCharacter.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\Navigation/PathFollowingComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\navigationsystem\public\NavFilters/NavigationQueryFilter.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\navigationsystem\public\NavAreas/NavArea.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\NavAreaBase.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\NavigationSystem\NavArea.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\NavigationSystem\NavigationQueryFilter.generated.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\navigationsystem\public\NavigationSystemTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\NavigationSystemConfig.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationDataInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\NavigationDataInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\NavigationSystem\NavigationData.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\AITypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\AITypes.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\AIResourceInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\AIResourceInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\PathFollowingAgentInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\NavMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\PathFollowingComponent.generated.h
+c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRBaseCharacterMovementComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\Character.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\NavigationAvoidanceTypes.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\RVOAvoidanceInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\PawnMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\NetworkPredictionInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\CharacterMovementComponent.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRBaseCharacterMovementComponent.generated.h
+c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\ReplicatedVRCameraComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\CameraComponent.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\ReplicatedVRCameraComponent.generated.h
+c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\ParentRelativeAttachmentComponent.h
+c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRExpansionFunctionLibrary.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SplineMeshComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\SplineMeshComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRExpansionFunctionLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\ShapeComponent.generated.h
+c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRTrackedParentInterface.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRTrackedParentInterface.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\ParentRelativeAttachmentComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\CapsuleComponent.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRBaseCharacter.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule/Classes/GenericTeamAgentInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\GenericTeamAgentInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule/Classes/Perception/AISense.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\Perception/AIPerceptionTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\AIPerceptionTypes.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\AISense.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule/Classes/Perception/AISenseConfig.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\AISenseConfig.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRAIPerceptionOverrides.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule/Classes/AISystem.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/AISystemBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\AISystemBase.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\AISystem.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule/Classes/Perception/AIPerceptionComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\Perception/AIPerceptionSystem.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\AISubsystem.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\AISubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\AIPerceptionSystem.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\AIPerceptionComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLogger.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule/Classes/Perception/AISightTargetInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\AISightTargetInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule/Classes/Perception/AISenseConfig_Sight.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\Perception/AISense_Sight.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\AISense_Sight.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\AISenseConfig_Sight.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Developer\GameplayDebugger/Public/GameplayDebuggerTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Developer\GameplayDebugger/Public/GameplayDebuggerCategory.h
+c:\program files\epic games\ue_4.23\engine\source\developer\gameplaydebugger\public\GameplayDebuggerAddonBase.h
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/Misc/VRLogComponent.cpp
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc/VRLogComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\FontImportOptions.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\SlateCore\FontProviderInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\Font.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\Canvas.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\TextureRenderTarget.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\TextureRenderTarget2D.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Console.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\EngineSettings\Classes\ConsoleSettings.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\EngineSettings\ConsoleSettings.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\Console.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core/Public/Misc/OutputDeviceHelper.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRLogComponent.generated.h
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/Misc/VRPlayerStart.cpp
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc/VRPlayerStart.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerStart.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/NavigationObjectBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\NavigationObjectBase.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\PlayerStart.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/BillboardComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\BillboardComponent.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRPlayerStart.generated.h
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/ParentRelativeAttachmentComponent.cpp
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRCharacter.h
+c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRRootComponent.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRRootComponent.generated.h
+c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRCharacterMovementComponent.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRCharacterMovementComponent.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRCharacter.generated.h
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/ReplicatedVRCameraComponent.cpp
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRCamera.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Rendering/MotionVectorSimulation.h
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/SimpleChar/VRSimpleCharacter.cpp
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\SimpleChar/VRSimpleCharacter.h
+c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\simplechar\VRSimpleCharacterMovementComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystem.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\NavigationSystemBase.generated.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\navigationsystem\public\NavigationOctree.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\NavigationSystem\NavigationSystem.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRSimpleCharacterMovementComponent.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRSimpleCharacter.generated.h
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/SimpleChar/VRSimpleCharacterMovementComponent.cpp
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/PhysicsVolume.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\PhysicsVolume.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameNetworkManager.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\GameNetworkManager.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameState.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\GameModeBase.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\GameStateBase.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\GameState.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/AvoidanceManager.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\AvoidanceManager.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/BrushComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\BrushComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/DemoNetDriver.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/PackageMapClient.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/NetworkVersion.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\PackageMapClient.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public\NetworkReplayStreaming.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/DemoNetConnection.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\DemoNetConnection.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Net/RepLayout.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/StaticBitArray.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\DemoNetDriver.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/NetworkObjectList.h
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRAIController.cpp
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRAIController.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\AIController.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTaskOwnerInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\GameplayTasks\Public\GameplayTaskTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\GameplayTasks\GameplayTaskOwnerInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTask.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakInterfacePtr.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\GameplayTasks\GameplayTask.generated.h
+c:\program files\epic games\ue_4.23\engine\source\runtime\aimodule\classes\Perception/AIPerceptionListenerInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\AIPerceptionListenerInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerDebugSnapshotInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\Engine\VisualLoggerDebugSnapshotInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\AIController.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRAIController.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\NetworkingDistanceConstants.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\Navigation/CrowdFollowingComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\Navigation/CrowdAgentInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\CrowdAgentInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\AIModule\CrowdFollowingComponent.generated.h
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRBaseCharacter.cpp
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRPathFollowingComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\NavigationSystem\Public\AbstractNavData.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win32\UE4\Inc\NavigationSystem\AbstractNavData.generated.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRPathFollowingComponent.generated.h
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRBaseCharacterMovementComponent.cpp
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRPlayerController.h
+C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win32\UE4\Inc\VRExpansionPlugin\VRPlayerController.generated.h
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRBPDatatypes.cpp
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRCharacter.cpp
+C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRCharacterMovementComponent.cpp
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
