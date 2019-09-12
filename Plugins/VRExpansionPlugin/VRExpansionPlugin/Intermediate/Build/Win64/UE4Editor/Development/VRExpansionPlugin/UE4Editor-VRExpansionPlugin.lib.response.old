@@ -6,7 +6,7 @@
 /NAME:"UE4Editor-VRExpansionPlugin.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Intermediate\Build\Win64\LTXEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
 "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.1_of_3.cpp.obj"
 "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.2_of_3.cpp.obj"
 "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.3_of_3.cpp.obj"

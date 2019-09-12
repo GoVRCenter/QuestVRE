@@ -1,6 +1,6 @@
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h
-C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRExpansionFunctionLibrary.cpp
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRExpansionFunctionLibrary.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h
+C:/Users/Justin/Documents/Unreal Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRExpansionFunctionLibrary.cpp
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRExpansionFunctionLibrary.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SplineComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SplineComponent.generated.h
@@ -14,30 +14,30 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
 c:\program files\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
-c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRBPDatatypes.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRBPDatatypes.generated.h
+c:\users\justin\documents\unreal projects\questvre\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRBPDatatypes.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRBPDatatypes.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\XRMotionControllerBase.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRExpansionFunctionLibrary.generated.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRExpansionFunctionLibrary.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
 c:\program files\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\IXRInput.h
-C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRExpansionPlugin.cpp
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRExpansionPlugin.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables/GrippablePhysicsReplication.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGlobalSettings.h
+C:/Users/Justin/Documents/Unreal Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRExpansionPlugin.cpp
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRExpansionPlugin.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables/GrippablePhysicsReplication.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGlobalSettings.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\KeyState.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerInput.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputSettings.generated.h
-c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripScripts/GS_GunTools.h
-c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\gripscripts\VRGripScriptBase.h
+c:\users\justin\documents\unreal projects\questvre\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripScripts/GS_GunTools.h
+c:\users\justin\documents\unreal projects\questvre\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\gripscripts\VRGripScriptBase.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGripScriptBase.generated.h
-c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripScripts/GS_Default.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGripScriptBase.generated.h
+c:\users\justin\documents\unreal projects\questvre\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripScripts/GS_Default.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/WorldSettings.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DamageType.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DamageType.generated.h
@@ -49,9 +49,9 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioVolume.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ConstructorHelpers.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldSettings.generated.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GS_Default.generated.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GS_GunTools.generated.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGlobalSettings.generated.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GS_Default.generated.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GS_GunTools.generated.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGlobalSettings.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine/Classes/GameFramework/PlayerController.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
@@ -118,14 +118,14 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.1
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\locale.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt\locale.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt\share.h
 c:\program files\epic games\ue_4.23\engine\source\runtime\experimental\chaos\public\chaos\Transform.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Rotation.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Plane.h
@@ -165,10 +165,10 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Source\ThirdParty\PhysX3\PxShared\inc
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxQuat.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxVec3.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMath.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt\math.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxIntrinsics.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/windows/PxWindowsIntrinsics.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt\math.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxPlane.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMat33.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxErrorCallback.h
@@ -428,13 +428,13 @@ c:\program files\epic games\ue_4.23\engine\source\thirdparty\physx3\apex_1.4\inc
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Containers/Union.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceUtilsCore.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\PhysicsReplication.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GrippablePhysicsReplication.generated.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GrippablePhysicsReplication.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Developer\Settings\Public\ISettingsContainer.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Developer\Settings\Public\ISettingsModule.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Developer\Settings\Public\ISettingsSection.h
-C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRGestureComponent.cpp
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGestureComponent.h
-c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRBaseCharacter.h
+C:/Users/Justin/Documents/Unreal Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRGestureComponent.cpp
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRGestureComponent.h
+c:\users\justin\documents\unreal projects\questvre\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRBaseCharacter.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\Navigation/PathFollowingComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h
 c:\program files\epic games\ue_4.23\engine\source\runtime\navigationsystem\public\NavigationSystemTypes.h
@@ -455,7 +455,7 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFra
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\PathFollowingComponent.generated.h
-c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRBaseCharacterMovementComponent.h
+c:\users\justin\documents\unreal projects\questvre\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRBaseCharacterMovementComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
@@ -478,39 +478,39 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetworkPredictionInterface.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementComponent.generated.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRBaseCharacterMovementComponent.generated.h
-c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\ReplicatedVRCameraComponent.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRBaseCharacterMovementComponent.generated.h
+c:\users\justin\documents\unreal projects\questvre\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\ReplicatedVRCameraComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\ReplicatedVRCameraComponent.generated.h
-c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\ParentRelativeAttachmentComponent.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\ReplicatedVRCameraComponent.generated.h
+c:\users\justin\documents\unreal projects\questvre\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\ParentRelativeAttachmentComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
-c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRTrackedParentInterface.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRTrackedParentInterface.generated.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\ParentRelativeAttachmentComponent.generated.h
-c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripMotionControllerComponent.h
+c:\users\justin\documents\unreal projects\questvre\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRTrackedParentInterface.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRTrackedParentInterface.generated.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\ParentRelativeAttachmentComponent.generated.h
+c:\users\justin\documents\unreal projects\questvre\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripMotionControllerComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\MotionControllerComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\MotionControllerComponent.generated.h
-c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRGripInterface.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGripInterface.generated.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GripMotionControllerComponent.generated.h
+c:\users\justin\documents\unreal projects\questvre\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRGripInterface.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGripInterface.generated.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\GripMotionControllerComponent.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRBaseCharacter.generated.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRBaseCharacter.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/LineBatchComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LineBatchComponent.generated.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGestureComponent.generated.h
-C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRGlobalSettings.cpp
-C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRGripInterface.cpp
-C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRPathFollowingComponent.cpp
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRPathFollowingComponent.h
-c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRRootComponent.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRRootComponent.generated.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGestureComponent.generated.h
+C:/Users/Justin/Documents/Unreal Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRGlobalSettings.cpp
+C:/Users/Justin/Documents/Unreal Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRGripInterface.cpp
+C:/Users/Justin/Documents/Unreal Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRPathFollowingComponent.cpp
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRPathFollowingComponent.h
+c:\users\justin\documents\unreal projects\questvre\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRRootComponent.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRRootComponent.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\NavigationSystem\Public\AbstractNavData.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\AbstractNavData.generated.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRPathFollowingComponent.generated.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRPathFollowingComponent.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\Navigation/MetaNavMeshPath.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/RecastNavMesh.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/NavMeshPath.h
@@ -519,19 +519,19 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\RecastNavMesh.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\NavigationSystem\Public\NavLinkCustomInterface.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavLinkCustomInterface.generated.h
-C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRPlayerController.cpp
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRPlayerController.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRPlayerController.generated.h
+C:/Users/Justin/Documents/Unreal Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRPlayerController.cpp
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRPlayerController.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRPlayerController.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemBase.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationSystemBase.generated.h
-C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRRootComponent.cpp
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRCharacter.h
-c:\users\justin\documents\unreal projects\vrexppluginexample\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRCharacterMovementComponent.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRCharacterMovementComponent.generated.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRCharacter.generated.h
+C:/Users/Justin/Documents/Unreal Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRRootComponent.cpp
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRCharacter.h
+c:\users\justin\documents\unreal projects\questvre\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRCharacterMovementComponent.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRCharacterMovementComponent.generated.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRCharacter.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Algo/Copy.h
-C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRStereoWidgetComponent.cpp
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRStereoWidgetComponent.h
+C:/Users/Justin/Documents/Unreal Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRStereoWidgetComponent.cpp
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRStereoWidgetComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Components/WidgetComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
@@ -652,7 +652,7 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetComponent.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/StereoLayerComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StereoLayerComponent.generated.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRStereoWidgetComponent.generated.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRStereoWidgetComponent.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\IStereoLayers.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
@@ -676,4 +676,4 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/S
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Slate/SWorldWidgetScreenLayer.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SConstraintCanvas.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
-C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRTrackedParentInterface.cpp
+C:/Users/Justin/Documents/Unreal Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRTrackedParentInterface.cpp

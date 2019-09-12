@@ -28,7 +28,7 @@
 /wd4838
 /we4668
 /I .
-/I "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private"
+/I "C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private"
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -515,15 +515,15 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\ClothingSystemRuntimeInterface
-/I "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions"
-/I "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\AdvancedSessions\AdvancedSteamSessions\Source"
+/I "C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions"
+/I "C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\AdvancedSessions\AdvancedSteamSessions\Source"
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Private
-/I "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
-/I "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions"
-/I "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions"
-/I "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\AdvancedSessions\AdvancedSessions\Source"
-/I "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
-/I "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
+/I "C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
+/I "C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions"
+/I "C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions"
+/I "C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\AdvancedSessions\AdvancedSessions\Source"
+/I "C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
+/I "C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
 /I ThirdParty\Steamworks\Steamv142\sdk\public
 /I ..\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemSteam
 /I ..\Plugins\Online\OnlineSubsystemSteam
@@ -555,16 +555,16 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Intermediate\Build\Win64\LTXEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Intermediate\Build\Win64\LTXEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Intermediate\Build\Win64\LTXEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
-/FI"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Fo"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\winrt"
+/FI"C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Intermediate\Build\Win64\LTXEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Intermediate\Build\Win64\LTXEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Intermediate\Build\Win64\LTXEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
+/FI"C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Fo"C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
 /TP
 /GR-
 /W4

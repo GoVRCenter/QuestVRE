@@ -34,7 +34,7 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Intermediate\Build\Win64\LTXEditor\Development\Engine\SharedPCH.Engine.h.obj"
 "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
 "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
 "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Default.rc2.res"

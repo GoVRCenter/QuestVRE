@@ -1,13 +1,13 @@
-C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Development/VRExpansionPlugin/Module.VRExpansionPlugin.gen.2_of_10.cppa7.o: \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Development/VRExpansionPlugin/Module.VRExpansionPlugin.gen.2_of_10.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Intermediate/Build/Android/LTX/Development/Slate/SharedPCH.Slate.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Development/VRExpansionPlugin/Definitions.VRExpansionPlugin.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin/GrippableActor.gen.cpp \
+C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Development/VRExpansionPlugin/Module.VRExpansionPlugin.gen.2_of_10.cppa7.o: \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Development/VRExpansionPlugin/Module.VRExpansionPlugin.gen.2_of_10.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Intermediate/Build/Android/LTX/Development/Slate/SharedPCH.Slate.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Development/VRExpansionPlugin/Definitions.VRExpansionPlugin.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin/GrippableActor.gen.cpp \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/CoreUObject/Public\UObject/GeneratedCppIncludes.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/CoreUObject/Public\UObject/MetaData.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/CoreUObject/Public\UObject/TextProperty.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source\VRExpansionPlugin/Public/Grippables/GrippableActor.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public\VRBPDatatypes.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source\VRExpansionPlugin/Public/Grippables/GrippableActor.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public\VRBPDatatypes.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Classes\Components/PrimitiveComponent.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/CoreUObject/Public\Templates/SubclassOf.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Classes\Engine/EngineTypes.h \
@@ -221,14 +221,14 @@ C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansio
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/Engine\PrimitiveComponent.generated.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Classes\PhysicsEngine/ConstraintDrives.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/Engine\ConstraintDrives.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\VRBPDatatypes.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public\VRGripInterface.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public/GripScripts/VRGripScriptBase.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\VRBPDatatypes.generated.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public\VRGripInterface.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public/GripScripts/VRGripScriptBase.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Public\Tickable.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Public\Net/UnrealNetwork.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\VRGripScriptBase.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\VRGripInterface.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public\VRExpansionFunctionLibrary.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\VRGripScriptBase.generated.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\VRGripInterface.generated.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public\VRExpansionFunctionLibrary.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/HeadMountedDisplay/Public\IMotionController.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Classes\Kismet/BlueprintFunctionLibrary.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/Engine\BlueprintFunctionLibrary.generated.h \
@@ -260,7 +260,7 @@ C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansio
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/GameplayTags/Classes\GameplayTagContainer.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/GameplayTags\GameplayTagContainer.generated.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/HeadMountedDisplay/Public\XRMotionControllerBase.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\VRExpansionFunctionLibrary.generated.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\VRExpansionFunctionLibrary.generated.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/GameplayTags/Classes\GameplayTagAssetInterface.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/GameplayTags\GameplayTagAssetInterface.generated.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Classes\Engine/ActorChannel.h \
@@ -269,16 +269,16 @@ C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansio
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Public\Net/DataReplication.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/Engine\ActorChannel.generated.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Public\DrawDebugHelpers.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public\Grippables/GrippablePhysicsReplication.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public\VRGlobalSettings.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public\Grippables/GrippablePhysicsReplication.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public\VRGlobalSettings.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Classes\GameFramework/PlayerInput.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Public\GestureRecognizer.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Public\KeyState.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/Engine\PlayerInput.generated.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Classes\GameFramework/InputSettings.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/Engine\InputSettings.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public/GripScripts/GS_GunTools.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public\GripScripts/GS_Default.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public/GripScripts/GS_GunTools.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public\GripScripts/GS_Default.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Classes\GameFramework/WorldSettings.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Classes\Engine/MeshMerging.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Classes\Components/InstancedStaticMeshComponent.h \
@@ -353,9 +353,9 @@ C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansio
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/Engine\AudioVolume.generated.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/CoreUObject/Public\UObject/ConstructorHelpers.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/Engine\WorldSettings.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\GS_Default.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\GS_GunTools.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\VRGlobalSettings.generated.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\GS_Default.generated.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\GS_GunTools.generated.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\VRGlobalSettings.generated.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime\Engine/Classes/GameFramework/PlayerController.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Classes\GameFramework/Controller.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/Engine\Controller.generated.h \
@@ -391,84 +391,84 @@ C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansio
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/ChaosCore/Public\Chaos/ArrayCollectionArray.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/ChaosCore/Public\Chaos/Array.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/Chaos/Public\Chaos/Defines.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\functional \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_function.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/move.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/concept_check.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\type_traits \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\backward/binders.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\typeinfo \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/hash_bytes.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\tuple \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\utility \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_relops.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_pair.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\array \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\stdexcept \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\string \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stringfwd.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/memoryfwd.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/char_traits.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_algobase.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/functexcept.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/cpp_type_traits.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ext/type_traits.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ext/numeric_traits.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_iterator_base_types.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_iterator_base_funcs.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\debug/debug.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_iterator.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/ptr_traits.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/predefined_ops.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/postypes.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\cwchar \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\cstdint \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/allocator.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/c++allocator.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ext/new_allocator.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/localefwd.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/c++locale.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\clocale \
-  D:/NVPACK/android-ndk-r14b/sysroot/usr/include\locale.h \
-  D:\NVPACK\android-ndk-r14b\toolchains\llvm\prebuilt\windows-x86_64\bin\..\lib64\clang\3.8.275480\include\stddef.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\iosfwd \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\cctype \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/ostream_insert.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/cxxabi_forced.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/range_access.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/basic_string.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ext/atomicity.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/gthr.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/gthr-default.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/atomic_word.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/functional_hash.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/basic_string.tcc \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/uses_allocator.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\functional \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_function.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/move.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/concept_check.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\type_traits \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\backward/binders.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\typeinfo \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/hash_bytes.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\tuple \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\utility \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_relops.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_pair.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\array \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\stdexcept \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\string \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stringfwd.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/memoryfwd.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/char_traits.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_algobase.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/functexcept.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/cpp_type_traits.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ext/type_traits.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ext/numeric_traits.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_iterator_base_types.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_iterator_base_funcs.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\debug/debug.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_iterator.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/ptr_traits.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/predefined_ops.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/postypes.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\cwchar \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\cstdint \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/allocator.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/c++allocator.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ext/new_allocator.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/localefwd.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/c++locale.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\clocale \
+  G:/NVPACK/android-ndk-r14b/sysroot/usr/include\locale.h \
+  G:\NVPACK\android-ndk-r14b\toolchains\llvm\prebuilt\windows-x86_64\bin\..\lib64\clang\3.8.275480\include\stddef.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\iosfwd \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\cctype \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/ostream_insert.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/cxxabi_forced.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/range_access.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/basic_string.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ext/atomicity.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/gthr.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/gthr-default.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/atomic_word.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/functional_hash.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/basic_string.tcc \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/uses_allocator.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Core/Public\Logging/MessageLog.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/Chaos/Public/Chaos/Serializable.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/ChaosCore/Public\Chaos/ArrayCollectionArrayBase.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\algorithm \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_algo.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/algorithmfwd.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_heap.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_tempbuf.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_construct.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ext/alloc_traits.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/alloc_traits.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\random \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\cmath \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\limits \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/random.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\vector \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_uninitialized.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_vector.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_bvector.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/vector.tcc \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/opt_random.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/random.tcc \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\numeric \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_numeric.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\algorithm \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_algo.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/algorithmfwd.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_heap.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_tempbuf.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_construct.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ext/alloc_traits.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/alloc_traits.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\random \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\cmath \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\limits \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/random.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\vector \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_uninitialized.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_vector.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_bvector.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/vector.tcc \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/opt_random.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/random.tcc \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\numeric \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/stl_numeric.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/Chaos/Public\Chaos/RigidParticles.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/Chaos/Public\Chaos/BVHParticles.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/Chaos/Public\Chaos/BoundingVolumeHierarchy.h \
@@ -477,25 +477,25 @@ C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansio
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/ChaosCore/Public\Chaos/Matrix.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/ChaosCore/Public\Chaos/Vector.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/Chaos/Public\Chaos/Pair.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\iostream \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ostream \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ios \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/ios_base.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/locale_classes.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/locale_classes.tcc \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\streambuf \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/streambuf.tcc \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/basic_ios.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/locale_facets.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\cwctype \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/ctype_base.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/streambuf_iterator.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/ctype_inline.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/locale_facets.tcc \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/basic_ios.tcc \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/ostream.tcc \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\istream \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/istream.tcc \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\iostream \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ostream \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ios \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/ios_base.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/locale_classes.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/locale_classes.tcc \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\streambuf \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/streambuf.tcc \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/basic_ios.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/locale_facets.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\cwctype \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/ctype_base.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/streambuf_iterator.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\bits/ctype_inline.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/locale_facets.tcc \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/basic_ios.tcc \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/ostream.tcc \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\istream \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/istream.tcc \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/Chaos/Public/Chaos/Transform.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/Chaos/Public\Chaos/Rotation.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/Chaos/Public\Chaos/Plane.h \
@@ -510,11 +510,11 @@ C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansio
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/Chaos/Public\Chaos/TriangleMesh.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/Chaos/Public\Chaos/Map.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/Chaos/Public\Chaos/SegmentMesh.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\unordered_set \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ext/aligned_buffer.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/hashtable.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/hashtable_policy.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/unordered_set.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\unordered_set \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ext/aligned_buffer.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/hashtable.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/hashtable_policy.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\bits/unordered_set.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/PhysicsCore\PhysicsCoreTypes.generated.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Experimental/ChaosSolvers/Public\Framework/Threading.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/Engine\PhysicsSettings.generated.h \
@@ -607,9 +607,9 @@ C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansio
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/ThirdParty/PhysX3/PxShared/include/foundation\Px.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/ThirdParty/PhysX3/PxShared/include\foundation/PxSimpleTypes.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/ThirdParty/PhysX3/PxShared/include\foundation/PxPreprocessor.h \
-  D:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ciso646 \
-  D:\NVPACK\android-ndk-r14b\toolchains\llvm\prebuilt\windows-x86_64\bin\..\lib64\clang\3.8.275480\include\inttypes.h \
-  D:/NVPACK/android-ndk-r14b/sysroot/usr/include\inttypes.h \
+  G:/NVPACK/android-ndk-r14b/sources/cxx-stl/gnu-libstdc++/4.9/include\ciso646 \
+  G:\NVPACK\android-ndk-r14b\toolchains\llvm\prebuilt\windows-x86_64\bin\..\lib64\clang\3.8.275480\include\inttypes.h \
+  G:/NVPACK/android-ndk-r14b/sysroot/usr/include\inttypes.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/ThirdParty/PhysX3/PhysX_3.4/Include\PxPhysicsAPI.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/ThirdParty/PhysX3/PxShared/include\foundation/PxAllocatorCallback.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/ThirdParty/PhysX3/PxShared/include\foundation/PxAssert.h \
@@ -800,21 +800,21 @@ C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansio
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Core/Public\Containers/Union.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/PhysicsCore/Public\PhysicsInterfaceUtilsCore.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Public\PhysicsReplication.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\GrippablePhysicsReplication.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public\Misc/BucketUpdateSubsystem.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\GrippablePhysicsReplication.generated.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Public\Misc/BucketUpdateSubsystem.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Public\Subsystems/EngineSubsystem.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/Engine\EngineSubsystem.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\BucketUpdateSubsystem.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\GrippableActor.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin/GrippableBoxComponent.gen.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source\VRExpansionPlugin/Public/Grippables/GrippableBoxComponent.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\BucketUpdateSubsystem.generated.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\GrippableActor.generated.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin/GrippableBoxComponent.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source\VRExpansionPlugin/Public/Grippables/GrippableBoxComponent.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Classes\Components/BoxComponent.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Classes\Components/ShapeComponent.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/Engine\ShapeComponent.generated.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/Engine\BoxComponent.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\GrippableBoxComponent.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin/GrippableCapsuleComponent.gen.cpp \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source\VRExpansionPlugin/Public/Grippables/GrippableCapsuleComponent.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\GrippableBoxComponent.generated.h \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin/GrippableCapsuleComponent.gen.cpp \
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source\VRExpansionPlugin/Public/Grippables/GrippableCapsuleComponent.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Source/Runtime/Engine/Classes\Components/CapsuleComponent.h \
   C:/Program\ Files/Epic\ Games/UE_4.23/Engine/Intermediate/Build/Android/UE4/Inc/Engine\CapsuleComponent.generated.h \
-  C:/Users/Justin/Documents/Unreal\ Projects/vrexppluginexample/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\GrippableCapsuleComponent.generated.h
+  C:/Users/Justin/Documents/Unreal\ Projects/QuestVRE/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Android/UE4/Inc/VRExpansionPlugin\GrippableCapsuleComponent.generated.h

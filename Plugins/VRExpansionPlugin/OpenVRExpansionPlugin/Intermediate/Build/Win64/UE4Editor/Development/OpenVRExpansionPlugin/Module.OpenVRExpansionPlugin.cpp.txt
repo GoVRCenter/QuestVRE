@@ -1,6 +1,6 @@
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h
-C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Source/OpenVRExpansionPlugin/Private/OpenVRExpansionFunctionLibrary.cpp
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public\OpenVRExpansionFunctionLibrary.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h
+C:/Users/Justin/Documents/Unreal Projects/QuestVRE/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Source/OpenVRExpansionPlugin/Private/OpenVRExpansionFunctionLibrary.cpp
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public\OpenVRExpansionFunctionLibrary.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\ThirdParty\OpenVR\OpenVRv1_5_17\headers\openvr.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
@@ -24,7 +24,7 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.1
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\locale.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt\locale.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
@@ -32,7 +32,7 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.1
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt\share.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\ProceduralMeshComponent.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
@@ -46,7 +46,7 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
 c:\program files\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin\OpenVRExpansionFunctionLibrary.generated.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin\OpenVRExpansionFunctionLibrary.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
 c:\program files\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\IXRInput.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor/UnrealEd/Classes/Editor/EditorEngine.h
@@ -63,8 +63,8 @@ C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Editor\EditorSubsystem\Public\EditorSubsystem.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EditorSubsystem\EditorSubsystem.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\EditorEngine.generated.h
-C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Source/OpenVRExpansionPlugin/Private/OpenVRExpansionPlugin.cpp
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public\OpenVRExpansionPlugin.h
-C:/Users/Justin/Documents/Unreal Projects/vrexppluginexample/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Source/OpenVRExpansionPlugin/Private/SteamVRKeyboardComponent.cpp
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public\SteamVRKeyboardComponent.h
-C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin\SteamVRKeyboardComponent.generated.h
+C:/Users/Justin/Documents/Unreal Projects/QuestVRE/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Source/OpenVRExpansionPlugin/Private/OpenVRExpansionPlugin.cpp
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public\OpenVRExpansionPlugin.h
+C:/Users/Justin/Documents/Unreal Projects/QuestVRE/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Source/OpenVRExpansionPlugin/Private/SteamVRKeyboardComponent.cpp
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public\SteamVRKeyboardComponent.h
+C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin\SteamVRKeyboardComponent.generated.h

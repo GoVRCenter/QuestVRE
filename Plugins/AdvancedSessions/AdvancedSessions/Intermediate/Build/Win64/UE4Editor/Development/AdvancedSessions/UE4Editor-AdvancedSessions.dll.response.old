@@ -32,7 +32,7 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Intermediate\Build\Win64\LTXEditor\Development\Engine\SharedPCH.Engine.h.obj"
 "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
 "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
 "C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Default.rc2.res"

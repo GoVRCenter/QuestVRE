@@ -6,9 +6,9 @@
 /NAME:"UE4Editor-OpenVRExpansionPlugin.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Intermediate\Build\Win64\LTXEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
-"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
-"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Default.rc2.res"
-/OUT:"C:\Users\Justin\Documents\Unreal Projects\vrexppluginexample\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.lib"
+"C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Intermediate\Build\Win64\LTXEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
+"C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
+"C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Default.rc2.res"
+/OUT:"C:\Users\Justin\Documents\Unreal Projects\QuestVRE\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\UE4Editor-OpenVRExpansionPlugin.lib"
 /INCLUDE:IMPLEMENT_MODULE_OpenVRExpansionPlugin

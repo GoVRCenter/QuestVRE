@@ -40,6 +40,10 @@
 		{
 			"Name": "OnlineSubsystemOculus",
 			"Enabled": true
+		},
+		{
+			"Name": "OculusAudio",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
